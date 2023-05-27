@@ -1,5 +1,14 @@
 <div id="header" align="center">
-    <img src="https://media.licdn.com/dms/image/D4D16AQFNkifB5ugTew/profile-displaybackgroundimage-shrink_350_1400/0/1685219813143?e=1690416000&v=beta&t=N0_ZJ0f5mYzxP8DEepm3dPEh_eHB-_FEuiFlmob4I3Y" alt="banner">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2Mzk0OGI3ODEyOWQ2Yjg1NGVmMjQwYTgwOTc0ODUyZGUyNzM0OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hpXdHPfFI5wTABdDx9/giphy.gif" alt="banner">
+    <h1 align="center">Hola ✨, soy <a href="https://www.linkedin.com/in/gabriela-iriart/">Gabriela</a></h1>
+</div>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/gabriela-iriart/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    </a>
+    <a href="https://www.behance.net/gabrielairiart">
+        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="">
+    </a>
 </div>
 
 <!--
