@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.licdn.com/dms/image/D4D16AQFNkifB5ugTew/profile-displaybackgroundimage-shrink_350_1400/0/1685219813143?e=1690416000&v=beta&t=N0_ZJ0f5mYzxP8DEepm3dPEh_eHB-_FEuiFlmob4I3Y" alt="banner">
+</div>
 
 <!--
 **gabrielagi/gabrielagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
