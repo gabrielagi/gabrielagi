@@ -1,9 +1,7 @@
 <div id="header" align="center">
-<!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZjNTJjNDgyMjY4NGI0YmJmZmFiOWZjMDc3NzY1ZWU4ODAyNmNjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/h408T6Y5GfmXBKW62l/giphy.gif" alt="banner" width="200">
- -->
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzaWJia3dwanprM2wzdnJob3N1cTlsN2FrcXcxeGcxZmQ4MnJ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="banner" width="200">
-    <h1 align="center">Hi ✨, I'm Gabriela Iriart</h1>
-    <h4 align="center">A passionate Full Stack developer</h3>
+    <img src="https://user-images.githubusercontent.com/48634426/261660540-432e3618-5e4f-45e0-8baf-a3ee7ab3767f.jpg" alt="banner" height=300>
+
+<!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzaWJia3dwanprM2wzdnJob3N1cTlsN2FrcXcxeGcxZmQ4MnJ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="banner" width="200"> -->
 </div>
 
 
