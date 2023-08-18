@@ -1,16 +1,12 @@
 <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/48634426/261660540-432e3618-5e4f-45e0-8baf-a3ee7ab3767f.jpg" alt="banner" height=300>
+    <img src="https://user-images.githubusercontent.com/48634426/261660540-432e3618-5e4f-45e0-8baf-a3ee7ab3767f.jpg" alt="banner" height=260>
 
 <!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzaWJia3dwanprM2wzdnJob3N1cTlsN2FrcXcxeGcxZmQ4MnJ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="banner" width="200"> -->
 </div>
 
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielagi&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielagi" /> </p>
-
-<div align="left">
-    <h3 align="left">🔨 Languajes and Tools</h3>
-    
-</div>
+<br />
    
 
 - 🔭 I’m currently working on [React with clean architecture, redux, context y Typescript](https://github.com/gabrielagi/exam-senior-js)
@@ -19,15 +15,15 @@
 
 - 💬 Ask me about **React, SQL**
 
-- 📫 How to reach me **gabrielairiart.gi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📩 How to reach me **gabrielairiart.gi@gmail.com**
+<br />
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriela-iriart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-iriart" height="30" width="40" /></a>
 <a href="https://www.behance.net/gabrielairiart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gabrielairiart" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br />
+<h3 align="left">⚙ Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
@@ -45,15 +41,15 @@
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   </p>
-
-<h3 align="left">Connect with me:</h3>
+<br />
+<h3 align="left">✏️ Design Tools:</h3>
 <p>
     </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
       <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagi&" alt="gabrielagi" /></p>
 
 <!--
