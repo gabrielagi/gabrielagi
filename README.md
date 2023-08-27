@@ -9,7 +9,7 @@
 <br />
    
 
-- 🔭 I’m currently working on [React with clean architecture, redux, context y Typescript](https://github.com/gabrielagi/exam-senior-js)
+- 🔭 I’m currently working on [PI Rick and Morty with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PI-rick-and-morty)
 
 - 🌱 I’m currently learning **React Native & Fullstack Bootcamp**
 
