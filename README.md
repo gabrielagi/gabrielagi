@@ -4,12 +4,9 @@
 <!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzaWJia3dwanprM2wzdnJob3N1cTlsN2FrcXcxeGcxZmQ4MnJ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="banner" width="200"> -->
 </div>
 
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielagi&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielagi" /> </p>
-<br />
-   
+   <br>
 
-- 🔭 I’m currently working on [PI Rick and Morty with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PI-rick-and-morty)
+- 🔭 My last Project [Explore the Pokémon World! with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PI-pokemon)
 
 - 🌱 I’m currently learning **React Native & Fullstack Bootcamp**
 
