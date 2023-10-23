@@ -13,7 +13,7 @@
 ## About me 😄
 I'm a passionate Full Stack web developer with 2 years of experience in creating high-performance web and mobile applications. My focus is on building end-to-end solutions, from backend development to crafting captivating user experiences.
 
-In addition to my full-stack development experience, I'm enthusiastic about mobile applications. I've worked on projects involving the creation of mobile apps using [mention mobile technologies] to deliver exceptional user experiences.
+In addition to my full-stack development experience, I'm enthusiastic about mobile applications. I've worked on projects involving the creation of mobile apps using React Native to deliver exceptional user experiences.
 
 Lastly, I'm a devoted UX/UI design enthusiast. I firmly believe in the power of design to enhance the user experience and make digital products more appealing and effective.
 <br>
