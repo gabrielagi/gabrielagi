@@ -3,23 +3,70 @@
 
 <!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzaWJia3dwanprM2wzdnJob3N1cTlsN2FrcXcxeGcxZmQ4MnJ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="banner" width="200"> -->
 </div>
+<br><br>
+<i style="center"> Software Developer | Mobile App Enthusiast | UX/UI Tech Explorer 🚀 </i>
 
    <br>
+<br>
 
-- 🔭 My last Project [Explore the Pokémon World! with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PI-pokemon)
 
-- 🌱 I’m currently learning **React Native & Fullstack Bootcamp**
+## About me 😄
+I'm a passionate Full Stack web developer with 2 years of experience in creating high-performance web and mobile applications. My focus is on building end-to-end solutions, from backend development to crafting captivating user experiences.
 
-- 💬 Ask me about **React, SQL**
+In addition to my full-stack development experience, I'm enthusiastic about mobile applications. I've worked on projects involving the creation of mobile apps using [mention mobile technologies] to deliver exceptional user experiences.
 
-- 📩 How to reach me **gabrielairiart.gi@gmail.com**
-<br />
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriela-iriart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-iriart" height="30" width="40" /></a>
-<a href="https://www.behance.net/gabrielairiart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gabrielairiart" height="30" width="40" /></a>
-</p>
-<br />
+Lastly, I'm a devoted UX/UI design enthusiast. I firmly believe in the power of design to enhance the user experience and make digital products more appealing and effective.
+<br>
+<br>
+
+- 🔭 My last Project [Connect with Nature, visit Greencorner! E-commerce with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PF-G4-GreenCorner)
+
+- 🌱 I’m currently learning **React Native & AWS**
+
+- 💬 Ask me about **JavaScript, SQL**
+
+<br>
+
+## Technologies and Skills ⚡
+
+- Frontend Development: React, Redux, React Router, React Spring, Tailwind CSS, Axios, Cloudinary, SweetAlert2, Swiper
+- Backend Development: Node.js, Express, MongoDB, SQL, RESTful APIs, GraphQL, Auth0, Axios, Bcryptjs, Express, Jsonwebtoken, Mercadopago, Morgan, Nodemailer, Nodemon,Pg (PostgreSQL), Sequelize
+- Mobile App Development: React Native
+- UX/UI Design: Figma, Adobe XD, Sketch, User Research, Wireframing
+- Databases: PostgreSQL, MySQL, MongoDB
+- Development Tools: Git, Visual Studio Code
+
+<br>
+
+## Soft Skills ✨🤗🙌
+
+In addition to my technical skills, I'm also passionate about sharing my knowledge and helping others begin their journey in programming. I've volunteered my time to assist individuals in getting started, from setting up their development environment and becoming familiar with tools like VS Code, to taking their first steps in interacting with Git, working through initial JavaScript exercises, and creating their first repositories. I guide them through the entire process, explaining the workflow of how to do it effectively.
+
+My commitment to volunteering has also allowed me to further develop my soft skills, including:
+
+- **Leadership:** Through my volunteering efforts, I've honed my leadership abilities by guiding and motivating others in their programming journey.
+
+- **Effective Communication:** I understand the importance of clear and concise communication. I make sure that I can explain complex technical concepts in a way that's easily understandable to learners.
+
+- **Teamwork:** Working with diverse groups of individuals has enhanced my collaborative skills. I'm able to contribute effectively to multidisciplinary teams, respecting different perspectives and ideas.
+
+- **Problem-Solving:** Volunteering has given me valuable experience in creative problem-solving. I can tackle challenges with innovative solutions.
+
+- **Empathy:** I believe in the significance of empathy in teaching and mentoring. I strive to understand the needs and difficulties of newcomers in the programming world and provide support accordingly.
+
+By combining my technical expertise and soft skills, I'm dedicated to making a positive impact on the programming community and helping others succeed in their coding journeys.
+
+
+<br>
+
+## Social Media and Contact 📫
+
+- GitHub: [gabrielagi](https://github.com/gabrielagi)
+- LinkedIn: [Gabriela Iriart](https://linkedin.com/in/gabriela-iriart)
+- Email: gabrielairiart.gi@gmail.com
+
+<br>
+<br>
 <h3 align="left">⚙ Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -48,6 +95,12 @@
 </p>
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagi&" alt="gabrielagi" /></p>
+
+
+## Personal Message
+
+✨ Thanks for visiting my GitHub profile! I'm passionate about Full Stack development, mobile app creation, and UX/UI design. Feel free to explore my projects, and don't hesitate to contact me if you have any questions or collaboration proposals. I'm always excited to connect with fellow tech enthusiasts and design aficionados in this dynamic world of technology! ✨
+
 
 <!--
 **gabrielagi/gabrielagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
