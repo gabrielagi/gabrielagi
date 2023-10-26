@@ -19,6 +19,8 @@ Lastly, I'm a devoted UX/UI design enthusiast. I firmly believe in the power of 
 <br>
 <br>
 
+- 🔨 Currently working on a project [Currency Convert with React Native and Expo](https://github.com/gabrielagi/CurrencyConverter)
+
 - 🔭 My last Project [Connect with Nature, visit Greencorner! E-commerce with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PF-G4-GreenCorner)
 
 - 🌱 I’m currently learning **React Native & AWS**
