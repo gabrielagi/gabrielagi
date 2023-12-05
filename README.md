@@ -19,19 +19,19 @@ Lastly, I'm a devoted UX/UI design enthusiast. I firmly believe in the power of 
 <br>
 <br>
 
-- 🔨 Currently working on a project [Currency Convert with React Native and Expo](https://github.com/gabrielagi/CurrencyConverter)
+- 👩‍💻 I am currently working at **DevLabs** as a **React Native mobile developer**, specializing in building innovative mobile applications.
 
 - 🔭 My last Project [Connect with Nature, visit Greencorner! E-commerce with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PF-G4-GreenCorner)
 
-- 🌱 I’m currently learning **React Native & AWS**
+- 🌱 I’m currently learning **React Native & TypeScript**
 
-- 💬 Ask me about **JavaScript, SQL**
+- 💬 Ask me about **JavaScript, React, NodeJs, SQL**
 
 <br>
 
 ## Technologies and Skills ⚡
 
-- Frontend Development: React, Redux, React Router, React Spring, Tailwind CSS, Axios, Cloudinary, SweetAlert2, Swiper
+- Frontend Development: React, React Native, Redux, React Router, React Spring, Tailwind CSS, Axios, Cloudinary, SweetAlert2, Swiper
 - Backend Development: Node.js, Express, MongoDB, SQL, RESTful APIs, GraphQL, Auth0, Axios, Bcryptjs, Express, Jsonwebtoken, Mercadopago, Morgan, Nodemailer, Nodemon,Pg (PostgreSQL), Sequelize
 - Mobile App Development: React Native
 - UX/UI Design: Figma, Adobe XD, Sketch, User Research, Wireframing
