@@ -11,7 +11,7 @@
 
 
 ## About me 😄
-I'm a passionate Full Stack web developer with 2 years of experience in creating high-performance web and mobile applications. My focus is on building end-to-end solutions, from backend development to crafting captivating user experiences.
+I'm a passionate Full Stack web developer with 4 years of experience in creating high-performance web and mobile applications. My focus is on building end-to-end solutions, from backend development to crafting captivating user experiences.
 
 In addition to my full-stack development experience, I'm enthusiastic about mobile applications. I've worked on projects involving the creation of mobile apps using React Native to deliver exceptional user experiences.
 
@@ -19,11 +19,11 @@ Lastly, I'm a devoted UX/UI design enthusiast. I firmly believe in the power of 
 <br>
 <br>
 
-- 👩‍💻 I am currently working at **DevLabs** as a **React Native mobile developer**, specializing in building innovative mobile applications.
+- 👩‍💻 I am currently working at **Nuqlea** as a **Senior Full Stack developer**, specializing in building innovative applications.
 
 - 🔭 My last Project [Connect with Nature, visit Greencorner! E-commerce with Express, React, Redux, Node, Sequelize](https://github.com/gabrielagi/PF-G4-GreenCorner)
 
-- 🌱 I’m currently learning **React Native & TypeScript**
+- 🌱 I’m currently learning **AWS, Bigquery and CRM Hubspot**
 
 - 💬 Ask me about **JavaScript, React, NodeJs, SQL**
 
